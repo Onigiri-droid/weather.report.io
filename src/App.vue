@@ -68,7 +68,7 @@ onMounted(getWether)
   align-items: center
   min-height: 100vh
   padding: 20px 0
-  background-color: #59585d
+  background-color: #282d4b
 
 .laptop
   width: 100%
